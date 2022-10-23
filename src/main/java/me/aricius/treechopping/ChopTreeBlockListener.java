@@ -548,6 +548,6 @@ public class ChopTreeBlockListener implements Listener {
 
     static {
         logs = new String[]{Material.ACACIA_LOG.toString(), Material.BIRCH_LOG.toString(), Material.DARK_OAK_LOG.toString(), Material.JUNGLE_LOG.toString(), Material.OAK_LOG.toString(), Material.SPRUCE_LOG.toString(), Material.CRIMSON_STEM.toString(), Material.WARPED_STEM.toString(), Material.MANGROVE_LOG.toString(), Material.MANGROVE_ROOTS.toString()};
-        leaves = new String[]{Material.ACACIA_LEAVES.toString(), Material.BIRCH_LEAVES.toString(), Material.DARK_OAK_LEAVES.toString(), Material.JUNGLE_LEAVES.toString(), Material.OAK_LEAVES.toString(), Material.SPRUCE_LEAVES.toString(), Material.NETHER_WART_BLOCK.toString(), Material.WARPED_WART_BLOCK.toString(), Material.AZALEA_LEAVES.toString(), Material.MANGROVE_LEAVES.toString()};
+        leaves = new String[]{Material.FLOWERING_AZALEA_LEAVES.toString(), Material.ACACIA_LEAVES.toString(), Material.BIRCH_LEAVES.toString(), Material.DARK_OAK_LEAVES.toString(), Material.JUNGLE_LEAVES.toString(), Material.OAK_LEAVES.toString(), Material.SPRUCE_LEAVES.toString(), Material.NETHER_WART_BLOCK.toString(), Material.WARPED_WART_BLOCK.toString(), Material.AZALEA_LEAVES.toString(), Material.MANGROVE_LEAVES.toString()};
     }
 }
